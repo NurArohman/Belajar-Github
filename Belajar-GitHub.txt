@@ -2,4 +2,10 @@ Web Developer
  -Front End
  -Back End
  -Ui Ux
+
+Mobile Developer
+ - Ui ux
+ - Front ENd
+ -Back End
  - Full Stack
+ - Database
