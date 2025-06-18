@@ -1,7 +1,4 @@
-Web Developer
- -Front End
- -Back End
- -Ui Ux
-
-Mobile Developer
-- Full Stack
+RPS SMT 2
+- Kalkulus 
+-Algoritma
+-Matdis
